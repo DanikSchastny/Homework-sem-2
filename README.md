@@ -1,1 +1,1 @@
-# Homework-sem-2
+I ask you to to accept these works without placing them in dynamic libraries, and without tests, because i really don't have time to finish them in that way. As far, as i know, we study at 31 of may, so at the weekends i'll finish all labs as expected under th original condition.
